@@ -1,4 +1,4 @@
-# sleep_debt_calculator
+# Sleep Debt Calculator
 
 ## Overview
 
