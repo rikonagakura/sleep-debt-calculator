@@ -2,7 +2,7 @@
 
 ## Overview
 
-Practise Javascript - Code for building a sleep debt calculator
+Javascript practise - Code for building a sleep debt calculator
 
 ## Requirement
 
